@@ -1,4 +1,20 @@
-.container{
+#food-container{
     text-align: center;
     margin-top: 50px;
+}
+
+#food-info{
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+}
+
+.mealsItem{
+    width: 250px;
+    text-align: center;
+    border-radius: 20px;
+}
+.mealsItem img{
+    width: 200px;
 }
