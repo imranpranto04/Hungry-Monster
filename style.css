@@ -3,6 +3,13 @@
     margin-top: 50px;
 }
 
+#ingredient-item{
+    margin-top: 50px;
+    padding: 50px;
+}
+#ingredient-item img{
+    width: 250px;
+}
 #food-info{
     margin-top: 50px;
     display: grid;
